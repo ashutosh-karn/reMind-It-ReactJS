@@ -4,7 +4,10 @@ export default function Header(props) {
 return (
     <nav className="navbar navbar-expand-lg bg-primary top">
       <div className="container-fluid">
-    <Link className="navbar-brand text-white h1 mt-1" to="/">{props.title}</Link>
+        <span className="logo position-absolute">
+      <img src="logo.png" width="32px"/>
+      </span>
+    <Link className="navbar-brand text-white h1 mt-1 position-relative mx-5" to="/">{props.title}</Link>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
