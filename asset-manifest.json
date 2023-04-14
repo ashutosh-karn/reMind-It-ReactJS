@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reMind-It-ReactJS/static/css/main.073c9b0a.css",
+    "main.js": "/reMind-It-ReactJS/static/js/main.8184a69f.js",
+    "static/js/787.b6086cd3.chunk.js": "/reMind-It-ReactJS/static/js/787.b6086cd3.chunk.js",
+    "index.html": "/reMind-It-ReactJS/index.html",
+    "main.073c9b0a.css.map": "/reMind-It-ReactJS/static/css/main.073c9b0a.css.map",
+    "main.8184a69f.js.map": "/reMind-It-ReactJS/static/js/main.8184a69f.js.map",
+    "787.b6086cd3.chunk.js.map": "/reMind-It-ReactJS/static/js/787.b6086cd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8184a69f.js"
+  ]
+}
