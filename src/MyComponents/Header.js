@@ -4,7 +4,7 @@ export default function Header(props) {
 return (
     <nav className="navbar navbar-expand-lg bg-primary top">
       <div className="container-fluid">
-        <span className="logo position-absolute">
+        <span className="logo position-absolute" alt="">
       <img src="logo.png" width="32px"/>
       </span>
     <Link className="navbar-brand text-white h1 mt-1 position-relative mx-5" to="/">{props.title}</Link>
